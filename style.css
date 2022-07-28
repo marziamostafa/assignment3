@@ -1,9 +1,32 @@
 #carouselExampleCaptions .carousel-caption {
-    top: 35%;
+    top: 28%;
 }
+
+.carousel-item h1 {
+    font-size: 4vw;
+}
+
+.carousel-item p {
+    font-size: 1.7vw;
+}
+
+.color-dark img {
+    filter: brightness(30%);
+    opacity: 0.9;
+
+}
+
+.explore {
+    background-color: rgb(244 250 253);
+}
+
 
 .price {
     color: #289BDE;
+}
+
+.ready-join {
+    background-color: rgb(40 155 222);
 }
 
 .accordion {
